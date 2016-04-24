@@ -1,5 +1,7 @@
 # Docker PHP5 + MYSQL
 
+![Docker PHP5 + MYSQL](https://raw.githubusercontent.com/fuyuanli/Docker-PHP5-MySQL/master/web.png)
+
 ## 簡介
 
 使用官方教學 [Docker Compose][1]  所建立的 PHP5 + MySQL 環境，使用之前請 **自行安裝 Docker Compose** ，基於以下兩個 image 建立:
